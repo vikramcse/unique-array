@@ -1,6 +1,6 @@
 {
   "name": "unique-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Removed duplicate elements from the array",
   "main": "index.js",
   "scripts": {
